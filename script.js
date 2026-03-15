@@ -1,0 +1,1 @@
+function agendar(horario){ document.getElementById('confirmacao').innerHTML = "Horário solicitado: " + horario + "<br>Entre em contato pelo Instagram para confirmar."; }
